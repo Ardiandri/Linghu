@@ -1,6 +1,1 @@
-8.0 PD_Cheats
-GDSK
-JDDSJSJ
-HDHD
-HDHS
-HDKD
+PD_Cheats 9.0
